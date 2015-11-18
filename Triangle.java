@@ -23,7 +23,7 @@ public class Triangle {
 	}
 	
 	public boolean isTriangle(){
-    return (a + b <= c && a + c <= b && b + c <= a); 
-  }
+		return (a + b <= c && a + c <= b && b + c <= a); 
+	}
 
 }
